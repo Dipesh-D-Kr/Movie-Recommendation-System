@@ -1,65 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Movie Recommendation App</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #121212;
-      color: #ffffff;
-      margin: 0;
-      padding: 0 20px;
-      line-height: 1.6;
-    }
-    header {
-      padding: 30px 0;
-      text-align: center;
-    }
-    h1 {
-      color: #ff4c60;
-    }
-    h2 {
-      color: #ffaa33;
-      margin-top: 30px;
-    }
-    code, pre {
-      background-color: #1e1e1e;
-      color: #00e6e6;
-      padding: 10px;
-      border-radius: 5px;
-      display: block;
-      overflow-x: auto;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    ul {
-      list-style: square;
-      padding-left: 20px;
-    }
-    a {
-      color: #66ccff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .project-structure {
-      background-color: #1e1e1e;
-      padding: 10px;
-      border-radius: 5px;
-      font-family: monospace;
-      color: #aaffaa;
-    }
-  </style>
-</head>
-<body>
 
   <header>
     <h1>🎬 Movie Recommendation App</h1>
-    <p>Built with Streamlit and KNN</p>
+    <a href="https://movie-recommendation-system-9yws9pgurfondk9ccsr8md.streamlit.app/">App Link</a>
   </header>
 
   <div class="section">
@@ -138,10 +80,9 @@ cd movie-recommender</pre>
 
   <div class="section">
     <h2>🙋‍♂️ Author</h2>
-    <p><strong>Your Name</strong></p>
+    <p><strong>Dipesh Kumar </strong></p>
     <p>
-      <a href="https://github.com/yourusername" target="_blank">GitHub</a> |
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/dipesh-kumar-099229222/" target="_blank">LinkedIn</a>
     </p>
   </div>
 
